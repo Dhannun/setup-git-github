@@ -55,6 +55,18 @@ git push -u origin main                  # 🚀 Push code to GitHub
 
 ---
 
+## 🔄 Subsequent Changes (After Initial Push)
+
+Once the repository has been linked and the initial push is done, any future changes can be handled with just the following commands:
+
+```bash
+git add .                                # ➕ Stage all changes
+git commit -m "<COMMIT_MESSAGE>"         # 📝 Commit with a descriptive message
+git push                                 # ☁️ Push to GitHub
+```
+
+---
+
 ## ✅ Summary
 
 | Git 🛠️ | GitHub 🌐 |
